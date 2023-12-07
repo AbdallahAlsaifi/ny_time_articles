@@ -17,7 +17,7 @@ shows details when items on the list are tapped
 7. [Coverage: ^1.6.4](https://pub.dev/packages/coverage)
 
 ### Installation
-1. Clone the repository.
+1. Clone the repository. 
 ```bash
 git clone https://github.com/abdallahAlsaifi/ny_time_news.git
 ```
