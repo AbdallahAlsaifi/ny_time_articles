@@ -23,7 +23,7 @@ git clone https://github.com/abdallahAlsaifi/ny_time_news.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd ny_time_news
+cd ny_time_articles
 ```
 3. Install dependencies.
 ```bash
