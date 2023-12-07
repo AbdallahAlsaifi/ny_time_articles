@@ -5,7 +5,7 @@ Simple App to hit the NY Times Most Popular Articles API and show a list of arti
 shows details when items on the list are tapped
 
 ## Flutter Version Used: [Channel stable, 3.13.9](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.13.9-stable.zip)
-[![Coverage Status](https://img.shields.io/badge/coverage-XX%25-brightgreen)](coverage\html\index.html)
+[![Coverage Status](https://img.shields.io/badge/coverage-XX%25-brightgreen)](coverage/html/index.html)
 ### Packages Used
 1. [Dio ^5.4.0](https://pub.dev/packages/dio)
 2. [Get_it ^7.6.4](https://pub.dev/packages/get_it)
