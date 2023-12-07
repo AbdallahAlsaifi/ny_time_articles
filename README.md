@@ -30,7 +30,7 @@ cd project
 flutter pub get
 ```
 ### Running the Code
-- **To Run without *[Device_Preview ^1.1.0](https://pub.dev/packages/device_preview) and to get full experience.**
+- **To Run without [Device_Preview ^1.1.0](https://pub.dev/packages/device_preview) and to get full experience.**
 ```bash
 flutter run --release
 ```
@@ -82,7 +82,7 @@ Ignore lines from coverage:
 
 **overall creating a coverage report at `{project}/coverage` which contain the lcov.info and coverage.json**
 
-### To view coverage report lcov.info in top level use lcov
+### To view coverage report lcov.info in top level as html use lcov
 
 You can install lcov by the following commands:
 - Mac
