@@ -19,7 +19,7 @@ shows details when items on the list are tapped
 ### Installation
 1. Clone the repository. 
 ```bash
-git clone https://github.com/abdallahAlsaifi/ny_time_news.git
+git clone https://github.com/AbdallahAlsaifi/ny_time_articles.git
 ```
 2. Navigate to the project directory.
 ```bash
